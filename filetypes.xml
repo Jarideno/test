@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="UserInterface" type="CLASS" />
+      <mapping pattern="mooc" type="CLASS" />
+    </extensionMap>
+  </component>
+</application>

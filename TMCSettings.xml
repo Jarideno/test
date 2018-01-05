@@ -1,0 +1,1040 @@
+<application>
+  <component name="TmcSettings">
+    <option name="settingsTmc">
+      <SettingsTmc>
+        <option name="course">
+          <Course>
+            <option name="cometUrl">
+              <URI />
+            </option>
+            <option name="detailsUrl">
+              <URI />
+            </option>
+            <option name="exercises">
+              <list>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="4679350945995270f22e1e970c9c7859" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34637" />
+                  <option name="name" value="week7-week7_01.Smileys" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="82ff12b76e955e9375db095d8319bd73" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34638" />
+                  <option name="name" value="week7-week7_02.CharacterStringChanger" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="d4dc2963e6c7ef11013abae09df672a8" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34639" />
+                  <option name="name" value="week7-week7_03.Calculator" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="3539ade27c85c82c8fd067d9b768b319" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34640" />
+                  <option name="name" value="week7-week7_04.ThingSuitcaseAndContainer" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="2275473794ef2d11382928ef84a4b2b9" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34641" />
+                  <option name="name" value="week7-week7_05.Nicknames" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="2b544d2eb7990184bc9a05c5b6a5d9e6" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34642" />
+                  <option name="name" value="week7-week7_06.PromissoryNote" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="104dbbb0dbcd1ec2e7b819ce8a35f076" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34643" />
+                  <option name="name" value="week7-week7_07.Dictionary" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="083d2631626c2fc2472d184aa3c5bd5b" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34644" />
+                  <option name="name" value="week7-week7_08.Airport" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="52722fa20e91c3d5850e4223573e6dee" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34645" />
+                  <option name="name" value="week8-week8_09.CarRegistrationCentre" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="1c97c79e2fb501ad69c8f2f8cf1aef81" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34646" />
+                  <option name="name" value="week8-week8_10.NationalService" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="fc4ba9c96b9c2a2bc5831ba04001a398" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34647" />
+                  <option name="name" value="week8-week8_11.BoxesAndThings" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="5d806e86eac40906565a9a5a464407c4" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34648" />
+                  <option name="name" value="week8-week8_12.OnlineShop" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="36d970a51f0ba608a70944d33eb4ce24" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34649" />
+                  <option name="name" value="week8-week8_13.RichFirstPoorLast" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="fba3ceb6bcb4b61e64cf19c96abe43b1" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34650" />
+                  <option name="name" value="week8-week8_14.StudentsSortedByName" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="f88b92d8c39f5f7cb9b9fca0faad105f" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34651" />
+                  <option name="name" value="week8-week8_15.SortedCards" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="469d52b0fa2c7ed7b2b88f0d8f54c5d4" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34652" />
+                  <option name="name" value="week8-week8_16.SkiJumping" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="ffda950ee09e908b6393fc5c9cac529c" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34653" />
+                  <option name="name" value="week9-week9_17.FirstPackages" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="20e253e0a16708f83482571478531a92" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34654" />
+                  <option name="name" value="week9-week9_18.Moving" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="b352aeaf96de7a64f325ca5e095ba70b" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34655" />
+                  <option name="name" value="week9-week9_19.MethodArgumentValidation" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="2b194fbaecf219f6c75eb644b8e706b8" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34656" />
+                  <option name="name" value="week9-week9_20.SensorsAndTemperatureMeasurement" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="30205f6508b2ea866b7cd5fbbb7ec1ab" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34657" />
+                  <option name="name" value="week9-week9_21.Printer" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="4fa292eea69fe5402853cbea2123a0b4" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34658" />
+                  <option name="name" value="week9-week9_22.FileAnalysis" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="fb1bb5ac014323ccff208b851a0ca18b" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34659" />
+                  <option name="name" value="week9-week9_23.WordInspection" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="ac38146cff17f44d1ab3aed4f3edd2ec" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34660" />
+                  <option name="name" value="week9-week9_24.MultipleEntryDictionary" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="44e92b0f037c9548e99ebf39104f7d86" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34661" />
+                  <option name="name" value="week9-week9_25.DuplicateRemover" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="54dc701fd12fee098137f86b06de26b0" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34662" />
+                  <option name="name" value="week9-week9_26.PhoneSearch" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="81d8bf84eb416c437eccc8a48406c591" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34613" />
+                  <option name="name" value="week10-week10_27.TheFinnishRingingCentre" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="54005f53ce54fe784d2b918acf4e086d" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34614" />
+                  <option name="name" value="week10-week10_28.Groups" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="ed6c67cdbea0ca304f2f2c9e63808438" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34615" />
+                  <option name="name" value="week10-week10_29.PersonAndTheirHeirs" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="00d25bcb0ebca3b23fc6bc8dacdf20aa" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34616" />
+                  <option name="name" value="week10-week10_30.Container" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="da4e0cc94fd2c1fdc6e37fd913e1dcf3" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34617" />
+                  <option name="name" value="week10-week10_31.FarmSimulator" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="d4b7fb896185a1ce5f341326fafe67f7" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34618" />
+                  <option name="name" value="week10-week10_32.DifferentBoxes" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="2cd9a220a9ce2528a1d20818a116ec9f" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34619" />
+                  <option name="name" value="week10-week10_33.Dungeon" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="1acd260ec5d05c7e5dd818f9b3ca19fd" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34620" />
+                  <option name="name" value="week11-week11_34.FileManager" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="91f725cb0fd69d4ddaef8ad45ba8f6d1" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34621" />
+                  <option name="name" value="week11-week11_35.TwoDirectionDictionary" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="d7a1c6d399e19d8574cde3b73db9ac7b" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34622" />
+                  <option name="name" value="week11-week11_36.Greeter" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="e4a85f96625e2b58ad35ea4699f6c6cd" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34623" />
+                  <option name="name" value="week11-week11_37.Survey" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="9324636386ab46488e123de37e657176" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34624" />
+                  <option name="name" value="week11-week11_38.NoticeBoard" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="7244e2665223d7c29dec472d0faaefc8" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34625" />
+                  <option name="name" value="week11-week11_39.ClickEffect" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="c643306d5025a345b87659b2bc2c7a24" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34626" />
+                  <option name="name" value="week11-week11_40.Calculator" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="6eab814b510debb2fb58827f32022ac6" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34627" />
+                  <option name="name" value="week11-week11_41.DrawingBoard" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="5a615e6e9d396519abd1c1161d8230d4" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34628" />
+                  <option name="name" value="week11-week11_42.MovingFigure" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="3a46df1f4bdcbaac038ac68233f51a70" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34629" />
+                  <option name="name" value="week11-week11_43.GameOfLife" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="f208df26ac89a46a30636c3b585e78f2" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34630" />
+                  <option name="name" value="week12-week12_44.RegularExpressions" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="1cc1bed4fd09225a133d54dfc66c570f" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34631" />
+                  <option name="name" value="week12-week12_45.EnumAndIterator" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="48f9f6ba057cbea6acd3e5cb524760a6" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34632" />
+                  <option name="name" value="week12-week12_46.FilmReference" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="262b73894c93ce32521c3c7df1118fb7" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34633" />
+                  <option name="name" value="week12-week12_47.FlexibleFilteringCriteria" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="fd7e7f8a40c71ce54491b1e651889dba" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34634" />
+                  <option name="name" value="week12-week12_48.StringBuilder" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="a641569b689f6971c6e0bf8ddc91de73" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34635" />
+                  <option name="name" value="week12-week12_49.WormGame" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+                <Exercise>
+                  <option name="allReviewPointsGiven" value="true" />
+                  <option name="checksum" value="e059b0e833cf47852823247a1689b16d" />
+                  <option name="courseName" value="avansbreda-programmeren-2" />
+                  <option name="downloadUrl">
+                    <URI />
+                  </option>
+                  <option name="exerciseSubmissionsUrl">
+                    <URI />
+                  </option>
+                  <option name="id" value="34636" />
+                  <option name="name" value="week12-week12_50.CourseFeedback" />
+                  <option name="returnUrl">
+                    <URI />
+                  </option>
+                  <option name="returnable" value="true" />
+                  <option name="zipUrl">
+                    <URI />
+                  </option>
+                </Exercise>
+              </list>
+            </option>
+            <option name="exercisesLoaded" value="true" />
+            <option name="id" value="227" />
+            <option name="name" value="avansbreda-programmeren-2" />
+            <option name="reviewsUrl">
+              <URI />
+            </option>
+            <option name="spywareUrls">
+              <list>
+                <URI />
+              </list>
+            </option>
+            <option name="unlockUrl">
+              <URI />
+            </option>
+          </Course>
+        </option>
+        <option name="firstRun" value="false" />
+        <option name="password" value="Heijmen12" />
+        <option name="serverAddress" value="https://tmc.mooc.fi/org/avansbreda" />
+        <option name="username" value="jkdenottelander" />
+      </SettingsTmc>
+    </option>
+  </component>
+</application>
