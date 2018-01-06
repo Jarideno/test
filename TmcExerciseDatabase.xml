@@ -929,6 +929,7 @@
                   </Exercise>
                   <Exercise>
                     <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
                     <option name="checksum" value="f208df26ac89a46a30636c3b585e78f2" />
                     <option name="courseName" value="avansbreda-programmeren-2" />
                     <option name="downloadUrl">
